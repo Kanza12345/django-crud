@@ -1,9 +1,9 @@
-# django-crud
+# django-rest-framework-api
 
-A CRUD API using Django Rest Framework
+An API using Django Rest Framework
 
 ## Get Started
-1. Clone the repository: https://github.com/Kanza12345/django-crud.git
+1. Clone the repository: https://github.com/Kanza12345/django-rest-framwork-api.git
 2. Run: ```python manage.py runserver```
 
 ## How to
